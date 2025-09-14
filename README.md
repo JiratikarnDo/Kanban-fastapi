@@ -33,8 +33,6 @@ DB_NAME=kanban
 SECRET_KEY=your-secret-key
 ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=30
-
-docker-compose up --build
 ```
 
 ### 3 Run with Docker

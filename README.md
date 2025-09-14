@@ -69,11 +69,11 @@ docker-compose up --build
 - DELETE /columns/{column_id} → ลบคอลัมน์
 - GET /columns/{column_id} → ดูงานทั้งหมดในคอลัมน์
 
-- Testing -
+### Testing
 ใช้ Swagger UI ที่ http://localhost:8000/docs
 หรือ Postman
 
-- Tech Stack in Project -
+### Tech Stack in Project 
 - FastAPI – Web Framework
 - SQLAlchemy – ORM
 - MySQL – Database
